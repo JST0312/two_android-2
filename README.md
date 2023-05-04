@@ -13,6 +13,7 @@
 정가을 :  프로젝트 기획 , 화면기획서 작성 , 안드로이드 개발 <br/>
 김정웅 :  테이블 및 API 설계 , Flask Framework로 백앤드 개발 <br/>
 김대연 :  데이터 분석 및 안드로이드 개발 <br/>
+장성태 :  API 설계, 화면 기획서 작성
 
 # ⚒️ Tools
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/><br/><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
